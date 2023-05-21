@@ -3,7 +3,7 @@ This is a tenacious three (group) portfolio website
 
 To view the project on your system:
 
-*Clone the repository
+!Clone the repository
 #Open the folder in the code editor
 #Then open the terminal and run the below command(You should be inside the folder in the terminal)
 # npm install
