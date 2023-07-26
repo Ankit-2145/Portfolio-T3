@@ -20,7 +20,8 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             We develop UI designs, Graphic designs, Websites <br className='sm:block hidden' />
-            and web applications.
+            and web applications.<br/><br/>Reach Us at <br/>
+            tenaciousthree07@gmail.com
           </p>
         </div>
       </div>
