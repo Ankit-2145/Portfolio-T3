@@ -128,19 +128,19 @@ const experiences = [
             // "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    {
-        title: "React Native Developer",
-        // company_name: "Tesla",
-        icon: reactjs,
-        iconBg: "#E6DEDD",
-        // date: "Jan 2021 - Feb 2022",
-        points: [
-            // "Developing and maintaining web applications using React.js and other related technologies.",
-            // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            // "Implementing responsive design and ensuring cross-browser compatibility.",
-            // "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    // {
+    //     title: "React Native Developer",
+    //     company_name: "Tesla",
+    //     icon: reactjs,
+    //     iconBg: "#E6DEDD",
+    //     date: "Jan 2021 - Feb 2022",
+    //     points: [
+    //         "Developing and maintaining web applications using React.js and other related technologies.",
+    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //         "Implementing responsive design and ensuring cross-browser compatibility.",
+    //         "Participating in code reviews and providing constructive feedback to other developers.",
+    //     ],
+    // },
     {
         title: "Web Developer",
         // company_name: "Shopify",
@@ -211,9 +211,9 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "BCA Community",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "A community for the BCA department of the govt. college, Solan to connect students and faculty with the latest industry level standards.",
         tags: [
             {
                 name: "react",
