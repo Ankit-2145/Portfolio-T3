@@ -232,9 +232,9 @@ const projects = [
         source_code_link: "https://github.com/",
     },
     {
-        name: "Job IT",
+        name: "Chef's Planet",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "It is restaurant website for a local restaurant offering online food delivery services through their website with a database and realtime order tracking.",
         tags: [
             {
                 name: "react",
@@ -245,7 +245,7 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "scss",
+                name: "mongodb",
                 color: "pink-text-gradient",
             },
         ],
@@ -253,16 +253,16 @@ const projects = [
         source_code_link: "https://github.com/",
     },
     {
-        name: "Trip Guide",
+        name: "Space X",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "It is a clone and a concept idea for spaceX website a type of redesign made using basic technologies html and css with a framework of css named as tailwindcss.",
         tags: [
             {
-                name: "nextjs",
+                name: "tailwindcss",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "html",
                 color: "green-text-gradient",
             },
             {
